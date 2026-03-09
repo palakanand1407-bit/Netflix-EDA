@@ -31,6 +31,8 @@ The dataset contains information about Netflix titles including:
 
 Source: Kaggle Netflix Movies and TV Shows Dataset
 
+---
+
 ## Technologies Used
 - Python
 - Pandas
@@ -38,6 +40,8 @@ Source: Kaggle Netflix Movies and TV Shows Dataset
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+
+---
 
 ## Key Insights
 
@@ -47,6 +51,8 @@ Source: Kaggle Netflix Movies and TV Shows Dataset
 - TV-MA and TV-14 are the most common content ratings.
 - International Movies and Dramas are the most popular genres.
 - Most Netflix movies have durations between 90–110 minutes.
+
+---
 
 ## Visualizations Included
 The project includes multiple visualizations such as:
@@ -61,9 +67,13 @@ The project includes multiple visualizations such as:
 - Genre trends over time
 - Country vs content type analysis
 
+---
+
 ## Conclusion
 
 This analysis highlights Netflix's growth and global expansion strategy. The platform combines recent releases with older licensed content while focusing heavily on international movies and diverse genres.
+
+---
 
 ## Author
 Palak Anand
